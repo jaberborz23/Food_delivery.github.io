@@ -1,1 +1,1 @@
-# Food_delivery.github.io
+This is a simple delivery website
